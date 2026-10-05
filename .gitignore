@@ -1,0 +1,15 @@
+# data and generated outputs (kept on Google Drive, not in the repo)
+data/
+work/
+runs*/
+*.zip
+*.pt
+*.npy
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
